@@ -1,0 +1,14 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/account/EditAccountForm.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/account/NewAccountForm.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/account/SignonForm.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/catalog/Category.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/catalog/Main.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/catalog/Product.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/catalog/SearchProducts.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/common/IncludeBottom.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/order/ConfirmOrder.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/order/ListOrders.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/order/NewOrderForm.jsp=UTF-8
+encoding//WebContent/WEB-INF/views/order/ViewOrder.jsp=UTF-8
+encoding/<project>=UTF-8
